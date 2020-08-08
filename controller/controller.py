@@ -1,2 +1,2 @@
-msg="Mi primer proyecto git en la hackathon"
+msg = "hello world"
 print(msg)
